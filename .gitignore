@@ -1,0 +1,7 @@
+target/
+*.class
+*.db
+profile_*.db
+.idea/
+*.iml
+.vscode/
