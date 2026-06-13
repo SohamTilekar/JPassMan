@@ -2,6 +2,8 @@
 
 A zero-dependency, pure-Java Password Manager with robust cryptographic security.
 
+![Homescreen](assets/Homescreen.png)
+
 JPassMan securely stores your credentials offline using `AES/GCM/NoPadding` encryption, combined with a `PBKDF2WithHmacSHA256` key derivation function (using 65,536 iterations and a random 16-byte salt).
 
 It features a high-performance **interactive Terminal User Interface (TUI)** modeled after professional text-based applications, supporting mouse clicks, full keyboard navigation, and rich ANSI colors.
